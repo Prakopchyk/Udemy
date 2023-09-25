@@ -46,6 +46,7 @@ return resultString;
 
 showProgrammingLangs(personalPlanPeter);
 
+
 // 3) Создайте метод showAgeAndLangs внутри объекта personalPlanPeter. При его вызове метод будет принимать в себя объект и возвращать строку в нужном виде.
 
 // Пример:
